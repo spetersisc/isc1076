@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UsersExport>
+  <Users>
+    <AccountNeverExpires>true</AccountNeverExpires>
+    <AutheEnabled>0</AutheEnabled>
+    <ChangePassword>false</ChangePassword>
+    <CreateDateTime>64176,68644.58242</CreateDateTime>
+    <Enabled>true</Enabled>
+    <ExpirationDate>1840-12-31</ExpirationDate>
+    <Flags>1</Flags>
+    <FullName>System Administrator</FullName>
+    <HOTPKey>WBJ2UKn6ejzV4knU9UUCvcs7j90=</HOTPKey>
+    <HOTPKeyGenerate>false</HOTPKeyGenerate>
+    <HOTPKeyDisplay>false</HOTPKeyDisplay>
+    <LastModifiedDateTime>64406,67942.605393</LastModifiedDateTime>
+    <LastModifiedInfo>
+AccountNeverExpires modified:
+  New value: 1
+  Old value: 0
+
+PasswordNeverExpires modified:
+  New value: 1
+  Old value: 0
+</LastModifiedInfo>
+    <LastModifiedUsername>SuperUser</LastModifiedUsername>
+    <Name>Admin</Name>
+    <Password>BnOEVtAprolizxkVKTbODSnTC3o=</Password>
+    <PasswordNeverExpires>true</PasswordNeverExpires>
+    <PasswordChangedDateTime>64176,68644.58244</PasswordChangedDateTime>
+    <Roles>
+      <RolesItem>%Manager</RolesItem>
+    </Roles>
+    <Salt>yoGyutnS/CA=</Salt>
+  </Users>
+  <Users>
+    <AccountNeverExpires>true</AccountNeverExpires>
+    <AutheEnabled>0</AutheEnabled>
+    <ChangePassword>false</ChangePassword>
+    <CreateDateTime>64176,68644.6054</CreateDateTime>
+    <Enabled>true</Enabled>
+    <ExpirationDate>1840-12-31</ExpirationDate>
+    <Flags>1</Flags>
+    <FullName>CSP Gateway user</FullName>
+    <HOTPKey>lbuT9gxv6bMf26QJeWySoDOi0ag=</HOTPKey>
+    <HOTPKeyGenerate>false</HOTPKeyGenerate>
+    <HOTPKeyDisplay>false</HOTPKeyDisplay>
+    <LastModifiedDateTime>64176,68644.612039</LastModifiedDateTime>
+    <LastModifiedInfo>
+AccountNeverExpires modified:
+  New value: 1
+  Old value: 0
+
+PasswordNeverExpires modified:
+  New value: 1
+  Old value: 0
+</LastModifiedInfo>
+    <Name>CSPSystem</Name>
+    <Password>J+oXi7/q2MBrYB79t4xG9iGkD6w=</Password>
+    <PasswordNeverExpires>true</PasswordNeverExpires>
+    <PasswordChangedDateTime>64176,68644.60542</PasswordChangedDateTime>
+    <Salt>JO+c7Hd/SsE=</Salt>
+  </Users>
+  <Users>
+    <AccountNeverExpires>true</AccountNeverExpires>
+    <AutheEnabled>0</AutheEnabled>
+    <ChangePassword>false</ChangePassword>
+    <CreateDateTime>64176,68644.574197</CreateDateTime>
+    <Enabled>true</Enabled>
+    <ExpirationDate>1840-12-31</ExpirationDate>
+    <Flags>1</Flags>
+    <FullName>User who installed system</FullName>
+    <HOTPKey>b+g9y338KSiNdTV3OfLBxieotpA=</HOTPKey>
+    <HOTPKeyGenerate>false</HOTPKeyGenerate>
+    <HOTPKeyDisplay>false</HOTPKeyDisplay>
+    <LastModifiedDateTime>64182,67170.297026</LastModifiedDateTime>
+    <LastModifiedInfo>
+AccountNeverExpires modified:
+  New value: 1
+  Old value: 0
+
+PasswordNeverExpires modified:
+  New value: 1
+  Old value: 0
+</LastModifiedInfo>
+    <LastModifiedUsername>SuperUser</LastModifiedUsername>
+    <Name>SuperUser</Name>
+    <Password>7BaxoCxz/mCLMRerfdhFJQ4HDxo=</Password>
+    <PasswordNeverExpires>true</PasswordNeverExpires>
+    <PasswordChangedDateTime>64176,68644.574342</PasswordChangedDateTime>
+    <Roles>
+      <RolesItem>%All</RolesItem>
+    </Roles>
+    <Salt>g7hoSB2pCPg=</Salt>
+  </Users>
+  <Users>
+    <AccountNeverExpires>true</AccountNeverExpires>
+    <AutheEnabled>0</AutheEnabled>
+    <ChangePassword>false</ChangePassword>
+    <CreateDateTime>64176,68644.590142</CreateDateTime>
+    <Enabled>true</Enabled>
+    <ExpirationDate>1840-12-31</ExpirationDate>
+    <Flags>1</Flags>
+    <FullName>Unauthenticated user</FullName>
+    <HOTPKey>GhakXq3erM8oMuwxWMbdDtkZvZs=</HOTPKey>
+    <HOTPKeyGenerate>false</HOTPKeyGenerate>
+    <HOTPKeyDisplay>false</HOTPKeyDisplay>
+    <LastModifiedDateTime>64176,68644.620474</LastModifiedDateTime>
+    <LastModifiedInfo>
+AccountNeverExpires modified:
+  New value: 1
+  Old value: 0
+
+PasswordNeverExpires modified:
+  New value: 1
+  Old value: 0
+</LastModifiedInfo>
+    <Name>UnknownUser</Name>
+    <Password>1Kv/UacQ3WyIifCOhqdCE2A+c5g=</Password>
+    <PasswordNeverExpires>true</PasswordNeverExpires>
+    <PasswordChangedDateTime>64176,68644.590156</PasswordChangedDateTime>
+    <Salt>ggtlnRtg0I0=</Salt>
+  </Users>
+  <Users>
+    <AccountNeverExpires>true</AccountNeverExpires>
+    <AutheEnabled>0</AutheEnabled>
+    <ChangePassword>false</ChangePassword>
+    <CreateDateTime>64176,68644.613737</CreateDateTime>
+    <Enabled>false</Enabled>
+    <ExpirationDate>1840-12-31</ExpirationDate>
+    <Flags>1</Flags>
+    <FullName>(Internal use - not for login)</FullName>
+    <HOTPKey>LmPgFHKzjChO51M3Tp0rstGV/yQ=</HOTPKey>
+    <HOTPKeyGenerate>false</HOTPKeyGenerate>
+    <HOTPKeyDisplay>false</HOTPKeyDisplay>
+    <LastModifiedDateTime>64176,68644.613749</LastModifiedDateTime>
+    <Name>_PUBLIC</Name>
+    <Password>czG+Z+x0hr6PFRiU4sU13nA1k0s=</Password>
+    <PasswordNeverExpires>true</PasswordNeverExpires>
+    <PasswordChangedDateTime>64176,68644.613751</PasswordChangedDateTime>
+    <Salt>EDmVXPDTUvk=</Salt>
+  </Users>
+  <Users>
+    <AccountNeverExpires>true</AccountNeverExpires>
+    <AutheEnabled>0</AutheEnabled>
+    <ChangePassword>false</ChangePassword>
+    <CreateDateTime>64176,68644.597637</CreateDateTime>
+    <Enabled>true</Enabled>
+    <ExpirationDate>1840-12-31</ExpirationDate>
+    <Flags>1</Flags>
+    <FullName>SQL System Manager</FullName>
+    <HOTPKey>FfgOobQR83bM/bzLN5vJ31y9Hss=</HOTPKey>
+    <HOTPKeyGenerate>false</HOTPKeyGenerate>
+    <HOTPKeyDisplay>false</HOTPKeyDisplay>
+    <LastModifiedDateTime>64182,67195.967832</LastModifiedDateTime>
+    <LastModifiedInfo>
+AccountNeverExpires modified:
+  New value: 1
+  Old value: 0
+
+PasswordNeverExpires modified:
+  New value: 1
+  Old value: 0
+</LastModifiedInfo>
+    <LastModifiedUsername>SuperUser</LastModifiedUsername>
+    <Name>_SYSTEM</Name>
+    <Password>77ibotv4+35oIPwOIrdS+ksG8+E=</Password>
+    <PasswordNeverExpires>true</PasswordNeverExpires>
+    <PasswordChangedDateTime>64176,68644.59765</PasswordChangedDateTime>
+    <Roles>
+      <RolesItem>%All</RolesItem>
+    </Roles>
+    <Salt>9FdrENcV1AE=</Salt>
+  </Users>
+</UsersExport>

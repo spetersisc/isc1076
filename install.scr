@@ -1,0 +1,5 @@
+SuperUser
+SYS
+do ##class(%SYSTEM.OBJ).Load("/usr/cachesys/mgr/DefaultInstallerClass.xml","cdk")
+do ##class(Docker.ISC1076).setup()
+halt
